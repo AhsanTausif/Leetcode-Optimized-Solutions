@@ -1,4 +1,4 @@
-<h3> <a href="https://leetcode.com/">LeetCode</a> is one of the most well-known online judge platforms which provides hands-on training on real coding interview questions. This repository aims to provide optimized solutions (in different programming languages) and resources for as many LeetCode (Easy, Medium & Hard) problems as possible.</h3>
+<h4> <a href="https://leetcode.com/">LeetCode</a> is one of the most well-known online judge platforms which provides hands-on training on real coding interview questions. This repository aims to provide optimized solutions (in different programming languages) and resources for as many LeetCode (Easy, Medium & Hard) problems as possible.</h4>
 
 <h4>Data Structures & Algorithms Concepts Covered</h4>
 
